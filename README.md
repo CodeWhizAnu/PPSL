@@ -4,8 +4,6 @@ PPSL
 
 This repository contains a collection of C++ programs that demonstrate various concepts and techniques learned in a  Laboratory setting. Each program includes explanations and examples to illustrate key concepts.
 
-•Contents
-
 •Programs
 
 1. Arithmetic Operations (`arithmetic_operations.cpp`)
