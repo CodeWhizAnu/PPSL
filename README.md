@@ -46,7 +46,7 @@ This repository is licensed under the MIT License.
 
 •Author
 
-[Anushka Deshhmukh]([https://github.com/CodeWhizAnu)
+[Anushka Deshhmukh]([https://github.com/CodeWhizAnu])
 
 •Acknowledgments
 
